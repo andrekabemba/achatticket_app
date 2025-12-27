@@ -58,7 +58,7 @@ class TicketsView extends StatelessWidget {
       margin: EdgeInsets.all(20),
       decoration: BoxDecoration(
         color: Colors.white,
-        borderRadius: BorderRadius.circular(5),
+        borderRadius: BorderRadius.circular(10),
       ),
       child: Column(
         children: [

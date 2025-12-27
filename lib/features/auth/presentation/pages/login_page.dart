@@ -66,7 +66,7 @@ class _LoginPageState extends State<LoginPage> {
                 prefixIcon: Icon(Icons.email, color: AppTheme.primaryPurple),
                 hintText: 'Email',
                 border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(16),
+                  borderRadius: BorderRadius.circular(20),
                   borderSide: BorderSide.none,
                 ),
               ),
@@ -79,7 +79,7 @@ class _LoginPageState extends State<LoginPage> {
                 prefixIcon: Icon(Icons.lock, color: AppTheme.primaryPurple),
                 hintText: 'Mot de Passe',
                 border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(16),
+                  borderRadius: BorderRadius.circular(20),
                   borderSide: BorderSide.none,
                 ),
               ),

@@ -135,7 +135,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 prefixIcon: Icon(Icons.email, color: AppTheme.primaryPurple),
                 hintText: 'Email',
                 border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(16),
+                  borderRadius: BorderRadius.circular(20),
                   borderSide: BorderSide.none,
                 ),
               ),
@@ -149,7 +149,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 prefixIcon: Icon(Icons.email, color: AppTheme.primaryPurple),
                 hintText: 'Mot de Passe',
                 border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(16),
+                  borderRadius: BorderRadius.circular(20),
                   borderSide: BorderSide.none,
                 ),
               ),
@@ -163,7 +163,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 prefixIcon: Icon(Icons.email, color: AppTheme.primaryPurple),
                 hintText: 'Confirmez le mot de passe',
                 border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(16),
+                  borderRadius: BorderRadius.circular(20),
                   borderSide: BorderSide.none,
                 ),
               ),

@@ -122,7 +122,7 @@ class _PaymentPageState extends State<PaymentPage> {
                       filled: true,
                       fillColor: Color(0xFFF5F5F5),
                       border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(16),
+                        borderRadius: BorderRadius.circular(20),
                         borderSide: BorderSide(color: Color(0xFF44388C)),
                       ),
                     ),

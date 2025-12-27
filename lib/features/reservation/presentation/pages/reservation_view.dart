@@ -212,7 +212,7 @@ class _ReservationViewState extends State<ReservationView> {
                       prefixIcon: Icon(Icons.person, color: Color(0xFF44388C)),
                       hintText: "Nom du passager",
                       border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(16),
+                        borderRadius: BorderRadius.circular(20),
                         borderSide: BorderSide(color: Color(0xFF44388C)),
                       ),
                     ),
@@ -326,7 +326,7 @@ class _ReservationViewState extends State<ReservationView> {
     return Container(
       padding: EdgeInsets.all(15),
       decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(16),
+        borderRadius: BorderRadius.circular(20),
         border: Border.all(color: Color(0xFF44388C)),
       ),
       child: Row(
